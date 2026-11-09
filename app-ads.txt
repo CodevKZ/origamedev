@@ -1144,6 +1144,7 @@ media.net, 8CUSC3UJ7, RESELLER, 818f58666cabc936
 media.net, 8CU47MDK1, RESELLER, 818f58666cabc936
 media.net, 8CUUQ286L, RESELLER, 818f58666cabc936
 lunamedia.io, 1yoxx3u24n2zgmg3fqgxniuwcg9qww5a, RESELLER, 524ecb396915caaf
+yango-ads.com, 103276887, DIRECT
 
 
 
